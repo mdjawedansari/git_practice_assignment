@@ -11,3 +11,4 @@ function identifyPrime(num){
     console.log("No");
   }
 }
+identifyPrime(11);
