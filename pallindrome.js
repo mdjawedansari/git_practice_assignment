@@ -9,3 +9,4 @@ function checkPalindrome(str) {
     console.log("No");
   }
 }
+checkPalindrome("naman);
